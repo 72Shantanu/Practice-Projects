@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+.title{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 30pt;
+}
+.cnt{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cnt img{
+    border-radius: 10%;
+}
+.player1 .name{
+    color: red;
+}
+.player2 .name{
+    color: blue;
+}
+.name{
+    font-size: 15pt;
+}
